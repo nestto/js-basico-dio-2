@@ -17,7 +17,7 @@ Nesse projeto foi apresentado a minha resolução para o segundo desafio do boot
 
 #### Objetivo
 
-Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)  e para ir um pouco além do que foi pedido foi constrúido mais um if onde da um resultado que for igual a 0 vitórias o jogador precisa jogar tem mais vitórias para aparecer o ranking.<br>
+Criei uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)  e para ir um pouco além do que foi pedido foi constrúido mais um if onde da um resultado que for igual a 0 vitórias o jogador precisa jogar tem mais vitórias para aparecer o ranking.<br>
 
 Se vitórias for igual a 0 = Complete mais partidas para obter um resultado <br>
 Se vitórias for menor do que 10 = Ferro<br>
