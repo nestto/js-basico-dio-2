@@ -4,7 +4,7 @@
 ### 🔨 Funcionalidades do projeto
 Nesse projeto foi apresentado a minha resolução para o segundo desafio do bootcamp Dio | IFood.
 ### 💻Técnicas e tecnologias utilizadas
--`JavaScript`: Tem papel fundamental para indicar a interação do usuário com a interface gráfica.
+-`JavaScript`
 #### 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
